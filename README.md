@@ -1,4 +1,4 @@
-### Hi, I'am Ada 👋
+### Hi, I'm Ada 👋
 
 ### About me:
 

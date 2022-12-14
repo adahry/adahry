@@ -10,7 +10,6 @@
 
 :books: Scientific interests: Statistics, Machine Learning, Medical Data, Nanotechnology
 
-📌 Currently, working on deep learning models for image recognition (Diabetic Retinopathy)
 
 
 ### :hammer_and_wrench: Languages and Tools :

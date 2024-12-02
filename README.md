@@ -2,13 +2,11 @@
 
 ### About me:
 
-:woman_scientist: Aspiring Data Scientist
+:woman_scientist: Data Scientist
 
-:dna: Bioinformatics Student
+:dna: Bioinformatics 
 
-:bar_chart: Passionate about Big Data and Visualizations
-
-:books: Scientific interests: Statistics, Machine Learning, Medical Data, Nanotechnology
+:books: Scientific interests: Statistics, Machine Learning, Medical Data, RNA ,Nanotechnology
 
 
 
